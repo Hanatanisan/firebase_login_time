@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085663313313",
+    "project_id": "firebase-login-time",
+    "storage_bucket": "firebase-login-time.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085663313313:android:73edb68df31c90ba819fe0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085663313313-or0jhhklpi6oguumt28koi1mtg0a3ab8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJiP3atZ0hVWS7IKVy8ptBhitiQgrHZEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085663313313-or0jhhklpi6oguumt28koi1mtg0a3ab8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
